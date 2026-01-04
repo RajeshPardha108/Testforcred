@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo a string
-        run: echo "This is our first GitHUb actions Workflow file..."
+        run: echo "This is our first GitHUb actions Workflow file...."
